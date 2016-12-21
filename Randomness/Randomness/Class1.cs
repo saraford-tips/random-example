@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Randomness
 {
-    class Class1
+    class Class123
     {
         //public static void Main()
         //{
