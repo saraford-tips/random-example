@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace Randomness
 {
-    // adding a comment to be removed
+
     class Program
     {
         // Taken from https://msdn.microsoft.com/en-us/library/h343ddh9(v=vs.110).aspx
